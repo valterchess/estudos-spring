@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servlet>
+    <servlet-name>dispatcher</servlet-name>
+    <servlet-class>
+        org.spring
+    </servlet-class>
